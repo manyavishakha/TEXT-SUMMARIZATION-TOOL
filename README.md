@@ -47,4 +47,6 @@ Code Structure
 (link unavailable): machine learning models for sentence ranking and coherence evaluation
 templates/index.html: HTML template for user input and summary display
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT: Summarization-Tool-for-Lengthy-Articles (1).pdf](https://github.com/user-attachments/files/18253938/Summarization-Tool-for-Lengthy-Articles.1.pdf)
+![6_Here-are-some-popular-summarization-tools-that-utilize-Natural-Language-Processing-NLP-in-AI](https://github.com/user-attachments/assets/60f6bca0-8486-409a-b8e1-695b8828e4e2)
+
